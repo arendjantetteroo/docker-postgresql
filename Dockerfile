@@ -1,5 +1,5 @@
-FROM ubuntu:13.10
-MAINTAINER Zaiste <oh [at] zaiste.net>
+FROM ubuntu:14.04
+MAINTAINER Arend-Jan tetteroo<dev [at] arendjantetteroo.nl>
 
 RUN apt-get update
 RUN apt-get -y install wget
